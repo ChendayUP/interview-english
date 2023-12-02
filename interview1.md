@@ -3,47 +3,48 @@
 
 # 📇常用标点符号和运算符
 
-| Term                                  | Translation        |
-| ------------------------------------- | ------------------ |
-| double quotes                         | 双引号             |
-| single quotes                         | 单引号             |
-| decimal                               | 小数点             |
-| operator                              | 运算符             |
-| operand                               | 操作数             |
-| lowercase letters                     | 小写字母           |
-| uppercase letters                     | 大写字母           |
-| an underscore                         | 下划线             |
-| Hyphens                               | 连字符             |
-|  Curly braces                             |  花括号 {} |
-|  Curly brackets | 花括号 {} |
-| double equal signs      | 双等号               |   
-| triple equal signs      | 三等号                   |           
-| parentheses / round brackets | 小括号（）|
-| square brackets | 方括号[]|
-|  question mark | 问号? |
-| exclamation mark | 感叹号！|
-| star sign / asterisk | 星号 *| 
-| ampersand | & |
-| percent sign | 百分号 %|
-| less than sign | 小于号 <|
-| greater than sign | 大于号 > |
-|  the forward slash | 前斜杠 / |
-| backslash | 后斜杠 \ |
-| checkmark | 勾号 √ |
-| semicolon | 分号 ; |
-| colon | 冒号 : |
-| ellipses | 省略号 ... |
-| comma | 逗号 , |
-| period / full stop | 点 . |
-| Upper Camel Case （也叫 Pascal Case） | 驼峰命名法（大写） |
-| Lower Camel Case                      | 驼峰命名法（小写） |
-| The addition operator                 | + 加号             |
-| The multiplication operator           | * 乘号             |
-| Subtraction                           | 减法               |
-| Division                              | 除法               |
-| Exponentiation                        | 乘方               |
-| Modulus                               | 模量               |
-|  capital letter | 大写字母 |
+| Term                                  | Translation        | Phonetics       |
+| ------------------------------------- | ------------------ | --------------- |
+| double quotes                         | 双引号             | [ˈdʌbəl kwəʊts]   |
+| single quotes                         | 单引号             | [ˈsɪŋɡəl kwəʊts] |
+| decimal                               | 小数点             | [ˈdɛsɪməl]       |
+| operator                              | 运算符             | [ˈɒpəreɪtər]      |
+| operand                               | 操作数             | [ˈɒpərænd]       |
+| lowercase letters                     | 小写字母           | [ˈloʊərˌkeɪs ˈlɛtərz] |
+| uppercase letters                     | 大写字母           | [ˈʌpərˌkeɪs ˈlɛtərz] |
+| an underscore                         | 下划线             | [ən ˈʌndərˌskɔr] |
+| Hyphens                               | 连字符             | [ˈhaɪfənz]       |
+| Curly braces                           | 花括号 {}         | [ˈkɜrli breɪsɪz] |
+| Curly brackets                         | 花括号 {}         | [ˈkɜrli ˈbrækɪts]|
+| double equal signs                     | 双等号             | [ˈdʌbl ˈiːkwəl saɪnz] |
+| triple equal signs                     | 三等号             | [ˈtrɪpl ˈiːkwəl saɪnz] |
+| parentheses / round brackets          | 小括号（）         | [pəˈrɛnθəsiz]    |
+| square brackets                        | 方括号[]           | [skwɛr ˈbrækɪts]  |
+| question mark                          | 问号?              | [ˈkwɛsʧən mɑrk]  |
+| exclamation mark                       | 感叹号！           | [ˌɛkskləˈmeɪʃən mɑrk] |
+| star sign / asterisk                   | 星号 *            | [stɑr saɪn / ˈæstərɪsk] |
+| ampersand                              | &                 | [ˈæmpərsænd]     |
+| percent sign                           | 百分号 %          | [pərˈsɛnt saɪn] |
+| less than sign                          | 小于号 <          | [lɛs θæn saɪn]  |
+| greater than sign                      | 大于号 >          | [ˈɡreɪtər θæn saɪn] |
+| the forward slash                      | 前斜杠 /          | [ðə ˈfɔrwərd slæʃ] |
+| backslash                              | 后斜杠 \          | [ˈbækslæʃ]       |
+| checkmark                              | 勾号 √            | [ˈʧɛkmɑrk]       |
+| semicolon                              | 分号 ;            | [ˈsɛmɪˌkoʊlən]   |
+| colon                                  | 冒号 :            | [ˈkoʊlən]        |
+| ellipses                               | 省略号 ...         | [ɪˈlɪpsiz]        |
+| comma                                  | 逗号 ,            | [ˈkɒmə]           |
+| period / full stop                     | 点 .              | [ˈpɪriəd / fʊl stɑp] |
+| Upper Camel Case （也叫 Pascal Case）   | 驼峰命名法（大写） | [ˈʌpər ˈkæməl keɪs] |
+| Lower Camel Case                       | 驼峰命名法（小写） | [ˈloʊər ˈkæməl keɪs] |
+| The addition operator                  | + 加号             | [ðə əˈdɪʃən ˈɒpəreɪtər] |
+| The multiplication operator            | * 乘号             | [ðə ˌmʌltɪplɪˈkeɪʃən ˈɒpəreɪtər] |
+| Subtraction                            | 减法               | [səbˈtrækʃən]    |
+| Division                               | 除法               | [dɪˈvɪʒən]        |
+| Exponentiation                         | 乘方               | [ɪkˌspoʊnənʃiˈeɪʃən] |
+| Modulus                                | 模量               | [ˈmɒdʒʊləs]       |
+| capital letter                         | 大写字母           | [ˈkæpɪtl ˈlɛtər]  |
+
 
 
 ## 🎈CSS
